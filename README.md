@@ -1,4 +1,4 @@
-# pyjumphash, a consistent hashing libarary implemnting the fast Jump Hash algorithm for python
+# pyjumphash (a consistent hashing libarary implemnting the fast Jump Hash algorithm for python
 
 ## Introduction
 Jump Hash is a fast, minimal memory consistent hash algorithm that can
@@ -14,8 +14,8 @@ suitable for production use.  Currently supports Python 2.6 and Python 2.7
 ## Installation
 
 * install numpy
-python setup.py build
-sudo python setup.py install
+* python setup.py build
+* sudo python setup.py install
 
 ## Documentation
 
